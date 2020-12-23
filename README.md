@@ -1,11 +1,12 @@
 ## Hi there 👋, I am Priya Srivastava
 I am a second-year student at PDPU skilled in Java and Python programming languages and Google Cloud Platform. 
 You can check my blogs at [dev.to/priya730](https://dev.to/priya730) and [Priya Srivastava's Blog](https://priyasrivastava.hashnode.dev/)
+<img align="right" alt="Coding" width="300" src="https://github.com/Priya730/Priya730/blob/master/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif">
 - 🔭 I’m currently working on Frontend Development
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/priyasrivastava730)
 - 😄 Pronouns: she/her
 
-<img align="right" alt="Coding" width="300" src="https://github.com/Priya730/Priya730/blob/master/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif">
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya730&label=Profile%20views&color=129e00&style=plastic" alt="Priya730" /> </p>-->
 
 <h3 align="left">Connect with me:</h3>
