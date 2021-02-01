@@ -1,29 +1,15 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Priya Srivastava
+<h1> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Priya Srivastava</h1>
 
-<a href="https://www.linkedin.com/in/priyasrivastava730/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-
-<a href="https://twitter.com/shivikapriya/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:shivikapriya730@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="http://dev.to/Priya730">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<br/>
+<a href="https://linkedin.com/in/priyasrivastava730" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyasrivastava730" height="30" width="40" /></a>
+<a href="https://twitter.com/shivikapriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivikapriya" height="30" width="40" /></a>
+<a href="mailto:@shivikapriya730@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://dev.to/Priya730" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Priya730" height="30" width="40" /></a>
+<br>
 
 ## About Me 👩‍💻
 
-<p>
-  
-  - 🎓 I am sophomore at PDPU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
-  - 🔭 I am a passinate learner exploring Web Development and the Google Cloud Platform☁.</br>
+* 🎓 I am sophomore at PDPU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
+* 🔭 I am a passinate learner exploring Web Development and the Google Cloud Platform☁.</br>
   
 ## My Experiences 
 
@@ -37,7 +23,7 @@
 * Member at Women Techmakers 
 
 * ✏ My blog - [EmpoweredByTech](https://empoweredbytech.hashnode.dev/) is an initiative to motivate girls to take up careers in STEM.</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya730&label=Profile%20views&color=0e75b6&style=flat" alt="Priya730" /> </p>
 
-[![Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priya730&count_private=true&show_icons=true)](https://github.com/Priya730/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya730&layout=compact)](https://github.com/Priya730/github-readme-stats)
+
+![Priya Srivastava's github stats](https://github-readme-stats.vercel.app/api?username=Priya730&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya730&label=Profile%20views&color=0e75b6&style=flat" alt="Priya730" /> </p>
