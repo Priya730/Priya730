@@ -18,16 +18,31 @@
 
 <br />
 
-### About Me 👩‍💻
-<p> 🎓I am a second-year student skilled in Java and Python programming languages and Google Cloud Platform☁. </br>
+## About Me 👩‍💻
 
-✏You can check my blogs at [dev.to/priya730](https://dev.to/priya730) and [Priya Srivastava's Blog](https://priyasrivastava.hashnode.dev/)</br>
+<p>
+  
+  - 🎓 I am sophomore at PDPU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
+  - 🔭 I am a passinate learner exploring Web Development and the Google Cloud Platform☁.</br>
+  
+## My Experiences
+* Google Cloud Career Readiness Program Trainee- Working to upskill in GCP by deploying applications, monitor operations, and manage enterprise solutions that leverage Google-managed or self-managed services on Google Cloud. 
+* 30 Day of Google Cloud Trainee- Successfully completed program named **#30DaysofGoogleCloud** by **Google Cloud** in collaboration with Google Developers and Qwiklabs to upskill in the Google Cloud Platform and received [11 Google Cloud skill badges](https://google.qwiklabs.com/public_profiles/bab3debc-fccb-48b1-979b-e2c24a4ff646).
+* Documentation Head at IEEE PDPU Student Chapter 
+* Mentor at [Bash Woman Community](https://github.com/Bash-Woman-Community)- The aim of this community is to help 10k people in 2021. Many students are not aware of the tech and need some mentorship, we as a community can do our part.
+* Research Intern at PDPU- Analysed the Environmental Education and Biodiversity Conservation scenario in Manipur. Worked on various research problems and Documented Research based Case Study and Literature Review on Ecology and Environment Welfare. The Civic and Social Service Internship gave possibilities of critical thinking, cooperative analysis, and out of the box thinking with a focus on Ecology and Environment Welfare.
+* Global Ambassador at WomenTech Network- Appointed as Global Ambassador with an intiative to make a difference by empowering women in tech through networking, leadership development, career growth & mentorship.
+* Member at Women Who Code- The largest and most active community of technical women in the world.
+* Member at Women Techmakers 
 
-<img align="right" alt="Coding" width="300" src="https://github.com/Priya730/Priya730/blob/master/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif">
+* ✏ My blog - [EmpoweredByTech](https://empoweredbytech.hashnode.dev/) is an initiative to motivate girls to take up careers in STEM.</br>
 
-- 🔭 I’m currently working on Frontend Development
+
+<!--<img align="right" alt="Coding" width="300" src="https://github.com/Priya730/Priya730/blob/master/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif"-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya730&label=Profile%20views&color=0e75b6&style=flat" alt="Priya730" /> </p>
+<!-- 🔭 I’m currently working on Frontend Development
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/priyasrivastava730)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her -->
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya730&label=Profile%20views&color=129e00&style=plastic" alt="Priya730" /> </p>-->
