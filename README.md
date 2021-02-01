@@ -24,6 +24,7 @@
   
   - 🎓 I am sophomore at PDPU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
   - 🔭 I am a passinate learner exploring Web Development and the Google Cloud Platform☁.</br>
+  - ✏ My blog - [EmpoweredByTech](https://empoweredbytech.hashnode.dev/) is an initiative to motivate girls to take up careers in STEM.</br>
   
 ## My Experiences
 * Google Cloud Career Readiness Program Trainee- Working to upskill in GCP by deploying applications, monitor operations, and manage enterprise solutions that leverage Google-managed or self-managed services on Google Cloud. 
@@ -35,7 +36,7 @@
 * Member at Women Who Code- The largest and most active community of technical women in the world.
 * Member at Women Techmakers 
 
-* ✏ My blog - [EmpoweredByTech](https://empoweredbytech.hashnode.dev/) is an initiative to motivate girls to take up careers in STEM.</br>
+
 
 
 <!--<img align="right" alt="Coding" width="300" src="https://github.com/Priya730/Priya730/blob/master/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif"-->
