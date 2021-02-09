@@ -8,8 +8,8 @@
 
 ## About Me 👩‍💻
 
-* 🎓 I am sophomore at PDPU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
-* 🔭 I am a passinate learner exploring Web Development and the Google Cloud Platform☁.</br>
+* 🎓 I am a sophomore at PDPU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
+* 🔭 I am a passionate learner exploring Web Development and the Google Cloud Platform☁.</br>
   
 ## My Experiences 
 
