@@ -15,9 +15,9 @@
 
 * Google Cloud Career Readiness Program Trainee- Working to upskill in GCP by deploying applications, monitor operations, and manage enterprise solutions that leverage Google-managed or self-managed services on Google Cloud. 
 * 30 Day of Google Cloud Trainee- Successfully completed program named **#30DaysofGoogleCloud** by **Google Cloud** in collaboration with Google Developers and Qwiklabs to upskill in the Google Cloud Platform and received [11 Google Cloud skill badges](https://google.qwiklabs.com/public_profiles/bab3debc-fccb-48b1-979b-e2c24a4ff646).
-* Documentation Head at IEEE PDPU Student Chapter 
+* Documentation Head at IEEE PDEU Student Chapter 
 * Mentor at [Bash Woman Community](https://github.com/Bash-Woman-Community)- The aim of this community is to help 10k people in 2021. Many students are not aware of the tech and need some mentorship, we as a community can do our part.
-* Research Intern at PDPU- Analysed the Environmental Education and Biodiversity Conservation scenario in Manipur. Worked on various research problems and Documented Research based Case Study and Literature Review on Ecology and Environment Welfare. The Civic and Social Service Internship gave possibilities of critical thinking, cooperative analysis, and out of the box thinking with a focus on Ecology and Environment Welfare.
+* Research Intern at PDEU- Analysed the Environmental Education and Biodiversity Conservation scenario in Manipur. Worked on various research problems and Documented Research based Case Study and Literature Review on Ecology and Environment Welfare. The Civic and Social Service Internship gave possibilities of critical thinking, cooperative analysis, and out of the box thinking with a focus on Ecology and Environment Welfare.
 * Global Ambassador at WomenTech Network- Appointed as Global Ambassador with an intiative to make a difference by empowering women in tech through networking, leadership development, career growth & mentorship.
 * Member at Women Who Code- The largest and most active community of technical women in the world.
 * Member at Women Techmakers 
