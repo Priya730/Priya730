@@ -24,6 +24,7 @@
 
 * ✏ My blog - [EmpoweredByTech](https://empoweredbytech.hashnode.dev/) is an initiative to motivate girls to take up careers in STEM.</br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya730)](https://git.io/streak-stats)
 
 ![Priya Srivastava's github stats](https://github-readme-stats.vercel.app/api?username=Priya730&show_icons=true&theme=radical)
 
