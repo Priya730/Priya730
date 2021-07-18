@@ -8,7 +8,7 @@
 
 ## About Me 👩‍💻
 
-* 🎓 I am a sophomore at PDEU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
+* 🎓 I am a junior at PDEU, Gandhinagar, pursuing my Bachelors in Electrical Engineering.</br> 
 * 🔭 I am a passionate learner exploring Web Development and the Google Cloud Platform☁.</br>
   
 ## My Experiences 
