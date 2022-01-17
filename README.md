@@ -4,7 +4,9 @@
 
 **More about me?** :information_source:
 
-I'm Priya Srivastava (she/her), an undergrad student majoring in EE at PDEU Gandhinagar. My recent interests are web development and cloud computing. I'm frequently learning new technologies to improve my skills and building innovative personal projects!
+I am Priya Srivastava, undergraduate student at Pandit Deendayal Energy University, pursuing my Bachelor in Electrical Engineering. I'm constantly seeking to continue learning and evolve my knowledge in algorithms, machine learning, and cloud technology. I like to solve problems and I enjoy coding. I am a proactive learner and always curious about new technologies.
+Skills/Interests: Python (scikit-learn, NumPy, SciPy, pandas), Java, Google Cloud Platform, git, HTML/CSS, Javascript.
+I will graduate in 2023 and I'm interested in internship and full-time software engineer and data science roles. Please feel free to get in touch with me via email at shivikapriya730@gmail.com
 
 **What do I do and What have I done?**
 * Google Cloud Career Readiness Mentee (2020-21). Take a look at my [Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/bab3debc-fccb-48b1-979b-e2c24a4ff646) <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/>
