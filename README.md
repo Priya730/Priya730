@@ -9,6 +9,7 @@ Skills/Interests: Python (scikit-learn, NumPy, SciPy, pandas), Java, Google Clou
 I will graduate in 2023 and I'm interested in internship and full-time software engineer and data science roles. Please feel free to get in touch with me via email at shivikapriya730@gmail.com
 
 **What do I do and What have I done?**
+* Intern at Times Internet
 * Google Cloud Career Readiness Mentee (2020-21). Take a look at my [Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/bab3debc-fccb-48b1-979b-e2c24a4ff646) <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/>
 * Vice-President at IEEE Student Chapter PDEU
 * Global Ambassador at WomenTech Network, Member Women Who Code, Google Women Techmakers
