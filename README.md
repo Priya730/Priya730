@@ -17,6 +17,7 @@
 <!--[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shivikapriya&layout=wide)](https://github.com/gazf/github-readme-twitter)-->
 **What do I do and What have I done?**
 * **Google Summer of Code** Student at Chaoss.
+* **Software Developer Intern**'22 at **Dineout** [Times Internet](https://timesinternet.in)
 * **Google Cloud Career Readiness Mentee** (2020-21). Take a look at my [Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/bab3debc-fccb-48b1-979b-e2c24a4ff646) <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/>
 * **Vice-President** at IEEE Student Chapter PDEU
 * Global Ambassador at WomenTech Network, Member Women Who Code, Google Women Techmakers
