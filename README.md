@@ -7,7 +7,7 @@
 </p>
 
 <br>**More about me?** :information_source:
-- 🏢 I'm currently working at **CHAOSS Community**
+- 🏢 I'm currently working at **HackerRank**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Open Source**, **Cloud Computing**, **development**, **Web Development**, **Women in Tech Scholarships**
 - 📫 Reach me: [twitter.com/shivikapriya](https://twitter.com/shivikapriya)
