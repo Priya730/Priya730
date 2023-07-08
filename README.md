@@ -11,6 +11,7 @@ I'm a passionate software developer, dedicated to crafting projects that enhance
 - 🗃️ Databases: MongoDB, PostgreSQL
 - 🚀 Frameworks & Libraries: React, Flask
 - :octocat: Version Control: Git, GitHub
+- 🌱 Currently learning: Design
 
 ### 🚀 Experience
 
