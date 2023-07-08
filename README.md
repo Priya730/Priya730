@@ -1,36 +1,31 @@
-### Hi there 👋
+## Hi there, I'm Priya 👋
 
-#### I'm Priya Srivastava, a Software Developer
-<p align="center">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br>
-</p>
+👩‍💻 Software Developer Intern at HackerRank 
 
-<br>**More about me?** :information_source:
-- 🏢 I'm currently working at **HackerRank**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Open Source**, **Cloud Computing**, **development**, **Web Development**, **Women in Tech Scholarships**
-- 📫 Reach me: [twitter.com/shivikapriya](https://twitter.com/shivikapriya)
-- Read my blogs at [Medium](https://medium.com/@shivikapriya730)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+I'm a passionate software developer, dedicated to crafting projects that enhance user experiences. As an electrical engineer🎓, I immersed myself in coding to gain a deep understanding of the intricate mechanisms behind apps and websites. I developed a profound appreciation for how seemingly simple elements like buttons and the satisfaction of green ticks after successful payments can profoundly enhance the user experience.
 
-<!--[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shivikapriya&layout=wide)](https://github.com/gazf/github-readme-twitter)-->
-**What do I do and What have I done?**
-* **Google Summer of Code** Student at Chaoss.
-* **Software Developer Intern**'22 at **Dineout** [Times Internet](https://timesinternet.in)
-* **Google Cloud Career Readiness Mentee** (2020-21). Take a look at my [Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/bab3debc-fccb-48b1-979b-e2c24a4ff646) <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/>
-* **Vice-President** at IEEE Student Chapter PDEU
-* Global Ambassador at WomenTech Network, Member Women Who Code, Google Women Techmakers
-* Mentor at [Bash Woman Community](https://github.com/Bash-Woman-Community)
-* Recepient of SUSE Scholarship'21 by Udacity
-* Open Source Contributor at GirlScript Summer of Code'21 and Mexili Winter of Code'21
-* **#IamRemarkable Facilitator**
-* Certification: Architecting with Google Compute Engine Specialisation by Coursera and Google Cloud
+### 🌏 Technologies & Tools
 
-**📫 How to reach me?**
+- 💻 Programming Languages: JavaScript, Python
+- 🌐 Web Technologies: HTML5, CSS3, React.js, Node.js, Express.js
+- 🗃️ Databases: MongoDB, PostgreSQL
+- 🚀 Frameworks & Libraries: React, Flask
+- :octocat: Version Control: Git, GitHub
 
-![twitter-follower](https://img.shields.io/twitter/follow/shivikapriya?style=social) [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivikapiya730@gmail.com)](mailto:shivikapriya730@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyasrivastava730/)](https://www.linkedin.com/in/priyasrivastava730/)
+### 🚀 Experience
 
-I will graduate in 2023 and I'm interested in internship and full-time software engineer and data science roles. Please feel free to get in touch with me via email at shivikapriya730@gmail.com
+- 💚 Software Developer Intern at HackerRank
+- ☀️ Google Summer of Code (GSoC) with CHAOSS in 2022
+- 💼 Previous internships at Dineout (Times Internet)
 
-[![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya730)](https://github.com/Priya730/github-readme-stats)
+### 📚 Reading & Interests
+
+I'm an avid reader, especially interested in books on business, startups, mysteries, thrillers, and of course, the magical world of Harry Potter. I love exploring how businesses operate, the role of technology in enhancing customer experiences, and the process of building user-centric features.
+
+### 📫 Connect with Me
+
+- 👔 [LinkedIn](https://linkedin.com/in/priyasrivastava730)
+- ✨ [Twitter](https://twitter.com/shivikapriya)
+- ✍️ [Personal Blog](https://priyasrivastava.hashnode.dev/)
+
+🌟 I'm always eager to learn, collaborate, and make a difference through my coding skills. Feel free to [reach out](mailto:shivikapriya730@gmail.com) if you'd like to connect or discuss potential projects!
