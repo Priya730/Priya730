@@ -11,8 +11,7 @@ I'm a passionate software developer, dedicated to crafting projects that enhance
 - 🗃️ Databases: MongoDB, PostgreSQL
 - 🚀 Frameworks & Libraries: React, Flask
 - :octocat: Version Control: Git, GitHub
-- 🌱 Currently learning: Design
-
+- 🌱 Currently learning: Web Security
 ### 🚀 Experience
 
 - 💚 Software Developer Intern at HackerRank
@@ -23,7 +22,7 @@ I'm a passionate software developer, dedicated to crafting projects that enhance
 
 I'm an avid reader, especially interested in books on business, startups, mysteries, thrillers, and of course, the magical world of Harry Potter. I love exploring how businesses operate, the role of technology in enhancing customer experiences, and the process of building user-centric features.
 
-### 📫 Connect with Me
+### 📫 [Connect with Me](https://bio.link/priyasrivastava)
 
 - 👔 [LinkedIn](https://linkedin.com/in/priyasrivastava730)
 - ✨ [Twitter](https://twitter.com/shivikapriya)
