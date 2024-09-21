@@ -1,4 +1,4 @@
-## Hi there, I'm [Priya](https://priya730.github.io) 👋
+## Hi there, I'm [Priya](https://priyasrivastava.hashnode.dev/about-me) 👋
 
 👩‍💻 Software Developer 1 at HackerRank 
 
