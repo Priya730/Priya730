@@ -27,7 +27,6 @@ I'm an avid reader, especially interested in books on business, startups, myster
 
 - 👔 [LinkedIn](https://linkedin.com/in/priyasrivastava730)
 - ✨ [Twitter](https://twitter.com/shivikapriya)
-- ✍️ [Personal Blog](https://priyasrivastava.hashnode.dev/)
-- 🌱 [Website](https://priya730.github.io)
+- ✍️ [Personal Site and Blog](https://priyasrivastava.hashnode.dev/)
 
 🌟 I'm always eager to learn, collaborate, and make a difference through my coding skills. Feel free to [reach out](mailto:shivikapriya730@gmail.com) if you'd like to connect or discuss potential projects!
