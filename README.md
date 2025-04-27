@@ -1,6 +1,6 @@
 ## Hi there, I'm [Priya](https://priyasrivastava.hashnode.dev/about-me) 👋
 
-👩‍💻 Software Developer 1 at HackerRank 
+👩‍💻 Software Developer II at HackerRank 
 
 I'm a passionate software developer, dedicated to crafting projects that enhance user experiences. As an electrical engineer🎓, I immersed myself in coding to gain a deep understanding of the intricate mechanisms behind apps and websites. I developed a profound appreciation for how seemingly simple elements like buttons and the satisfaction of green ticks after successful payments can profoundly enhance the user experience.
 
